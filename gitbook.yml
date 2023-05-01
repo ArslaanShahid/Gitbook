@@ -1,1 +1,5 @@
 root: ./integrations/
+
+structure:  
+    readme: ./product/README.md
+    summary: ./product/SUMMARY.md
