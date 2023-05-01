@@ -1,5 +1,13 @@
-root: ./integrations/
-
-structure:  
-    readme: ./product/README.md
-    summary: ./product/SUMMARY.md
+root: ./integrations
+structure:
+  README.md: /
+  business-analytics/README.md: /business-analytics
+  commerce-analytics/README.md: /commerce-analytics
+  finance-analytics/README.md: /finance-analytics
+  human-resource-analytics/README.md: /human-resource-analytics
+  marketing-analytics/README.md: /marketing-analytics
+  real-estate-analytics/README.md: /real-estate-analytics
+  sales-analytics/README.md: /sales-analytics
+  supply-chain-analytics/README.md: /supply-chain-analytics
+  technology-analytics/README.md: /technology-analytics
+  weather-analytics/README.md: /weather-analytics
