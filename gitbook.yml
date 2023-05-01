@@ -1,0 +1,9 @@
+root: ./docs
+
+branches:
+  WeatherAnalytics:
+    title: Weather Analytics Branch
+    description: Documentation for the Weather Analytics branch
+  BusinessAnalytics:
+    title: Business Analytics Branch
+    description: Documentation for the Business Analytics branch
